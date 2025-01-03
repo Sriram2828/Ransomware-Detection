@@ -1381,7 +1381,6 @@
 2025-01-01 08:52:12,841 - Successfully collected metadata for hash: 68b5822b0b423b24d5abfe3124699029
 2025-01-01 08:52:16,590 - Successfully collected metadata for hash: 5a08df0c4e302c6acc3bd7cb85a3f923
 2025-01-01 08:52:20,273 - Successfully collected metadata for hash: 38aebdf65ca93580287a895fb2522971
-2025-01-01 08:52:24,172 - Successfully collected metadata for hash: 6ed3eff4728647786da5d7a9b532b943
 2025-01-01 08:52:28,914 - Successfully collected metadata for hash: 9c4a75d78c8e452f3f76043768c8d3a6
 2025-01-01 08:52:33,340 - Successfully collected metadata for hash: 14f711ee4fc700c7935c25119f86c7f2
 2025-01-01 08:52:38,052 - Successfully collected metadata for hash: c23464d3372a0cdfd1cbe61dd2ba7b65
@@ -1473,7 +1472,6 @@
 2025-01-01 09:04:09,108 - Successfully collected metadata for hash: 618d6a3a9291838c1a57a7a1aaea7480
 2025-01-01 09:04:12,829 - Successfully collected metadata for hash: 3566a812589de2263f91b121efd013f4
 2025-01-01 09:04:16,617 - Successfully collected metadata for hash: 78cd0ceee725448d152b2c39a524abe7
-2025-01-01 09:04:20,482 - Successfully collected metadata for hash: 6ed3eff4728647786da5d7a9b532b943
 2025-01-01 09:04:24,341 - Successfully collected metadata for hash: 85100c8c8494bd2f3c332ca4070ceb7b
 2025-01-01 09:04:28,118 - Successfully collected metadata for hash: c4a7200b5c451e7e795e0a6fdaf79a32
 2025-01-01 09:04:32,111 - Successfully collected metadata for hash: 4f30573a434b48b74ba15f74dc19367c
@@ -1880,7 +1878,6 @@
 2025-01-01 09:40:24,134 - Successfully collected metadata for hash: 64e904daa30d2787ff4dc61a961f8b07
 2025-01-01 09:40:27,785 - Successfully collected metadata for hash: b844cc888d7df36d9a0ccd297bbaff0c
 2025-01-01 09:40:31,667 - Successfully collected metadata for hash: 7ff27fad9fa2f7c72dd13b328c14c67d
-2025-01-01 09:40:35,502 - Successfully collected metadata for hash: 6ed3eff4728647786da5d7a9b532b943
 2025-01-01 09:40:39,154 - Successfully collected metadata for hash: 47ccbc89c7e8fb8699b35cf347c568e8
 2025-01-01 09:40:42,869 - Successfully collected metadata for hash: 761e203d2e82e51916be8ad67de4e952
 2025-01-01 09:40:46,533 - Successfully collected metadata for hash: 90da55eca7670ea6965712a489e4e2bc
@@ -2466,7 +2463,6 @@
 2025-01-01 17:42:05,182 - Successfully collected metadata for hash: 4d0ae3d93fb1fb0989931afbd9fc92dc
 2025-01-01 17:42:09,035 - Successfully collected metadata for hash: 910f824a1062c8d7ec461ca604c7c3d1
 2025-01-01 17:42:12,865 - Successfully collected metadata for hash: 50e8a1404f50373ea4f4e23e174f0fae
-2025-01-01 17:42:16,712 - Successfully collected metadata for hash: 6ed3eff4728647786da5d7a9b532b943
 2025-01-01 17:42:20,551 - Successfully collected metadata for hash: 479986cbf5a60af6ea926225d1042b8c
 2025-01-01 17:42:24,432 - Successfully collected metadata for hash: 7565ec8143b01132c9e52fce959c65b2
 2025-01-01 17:42:28,234 - Successfully collected metadata for hash: a1769fb921607f899d922fc7d327582e
@@ -3132,7 +3128,6 @@
 2025-01-01 23:39:40,373 - Successfully collected metadata for hash: edcc4e71441033cf66531a3598a82cb1
 2025-01-01 23:39:46,487 - Successfully collected metadata for hash: cb4c69693904b53c6376f70c87a296e3
 2025-01-01 23:39:52,300 - Successfully collected metadata for hash: 300a6bbf13a506e1794fa74c76af4ac7
-2025-01-01 23:39:58,269 - Successfully collected metadata for hash: 6ed3eff4728647786da5d7a9b532b943
 2025-01-01 23:40:04,065 - Successfully collected metadata for hash: c1a5e42a9e2617df42400befcb009417
 2025-01-01 23:40:09,789 - Successfully collected metadata for hash: 1a1ad246c43ad68d26a691360b8ac00b
 2025-01-01 23:40:15,574 - Successfully collected metadata for hash: 69737713f717948072946fd4e15af6cd
@@ -3178,7 +3173,6 @@
 2025-01-01 23:44:14,307 - Successfully collected metadata for hash: 4053142a801da3a2cb4dffd43cae8184
 2025-01-01 23:44:20,068 - Successfully collected metadata for hash: 9eff2a633fb22b6377afbb5512da464a
 2025-01-01 23:44:25,820 - Successfully collected metadata for hash: ad1be285c4ec748f501afc6e807da580
-2025-01-01 23:44:31,640 - Successfully collected metadata for hash: 6ed3eff4728647786da5d7a9b532b943
 2025-01-01 23:44:37,353 - Successfully collected metadata for hash: 61d3e3842e2b4377ff812746f171ef1e
 2025-01-01 23:44:43,112 - Successfully collected metadata for hash: 80759a729b011952c4a2a917b2b599d1
 2025-01-01 23:44:48,868 - Successfully collected metadata for hash: 465f23c19fd77d58f6e150af8c6b4982
@@ -3262,7 +3256,6 @@
 2025-01-01 23:57:05,133 - Successfully collected metadata for hash: 1567a85c1666a738d02f2641dd04db31
 2025-01-01 23:57:10,808 - Successfully collected metadata for hash: ea16e405260dbee857c95435cd01e9da
 2025-01-01 23:57:16,627 - Successfully collected metadata for hash: b1fadce4e6a531488decbaf964ad7ecb
-2025-01-01 23:57:22,396 - Successfully collected metadata for hash: 6ed3eff4728647786da5d7a9b532b943
 2025-01-01 23:57:28,443 - Successfully collected metadata for hash: 776934fc4a116679203d753ac57e9786
 2025-01-01 23:57:34,193 - Successfully collected metadata for hash: 413346989914f4adf436fde4d2ef5a87
 2025-01-01 23:57:40,272 - Successfully collected metadata for hash: 99385706411d7cd72fcb76c744aa85b8
@@ -3423,7 +3416,6 @@
 2025-01-02 00:13:07,972 - Successfully collected metadata for hash: 4c825c74cd205a93ec53b7f644ddf4dd
 2025-01-02 00:13:14,139 - Successfully collected metadata for hash: 0926a62060681a66de2e03bd2059edaf
 2025-01-02 00:13:20,135 - Successfully collected metadata for hash: 24fa3320179c61879b6507035e1acd22
-2025-01-02 00:13:25,897 - Successfully collected metadata for hash: 6ed3eff4728647786da5d7a9b532b943
 2025-01-02 00:13:32,302 - Successfully collected metadata for hash: 701315030c51ce3ef8302e9aa4918415
 2025-01-02 00:13:38,056 - Successfully collected metadata for hash: 81c06be0e2a9439eed20cf62ddb00670
 2025-01-02 00:13:43,717 - Successfully collected metadata for hash: 800a109b162d02d66eaaf73c1176f547
@@ -3541,7 +3533,6 @@
 2025-01-02 00:24:45,060 - Successfully collected metadata for hash: 3566a812589de2263f91b121efd013f4
 2025-01-02 00:24:50,723 - Successfully collected metadata for hash: 7643c610f661eb3a69706d62cc3eb1c8
 2025-01-02 00:24:56,507 - Successfully collected metadata for hash: c88d5bbc6d357afaccd8c6f9fbdf9f0c
-2025-01-02 00:25:02,917 - Successfully collected metadata for hash: 81c06be0e2a9439eed20cf62ddb00670
 2025-01-02 00:25:09,323 - Successfully collected metadata for hash: 00e6706ca6ccc9736df36c08f8a07ece
 2025-01-02 00:25:15,396 - Successfully collected metadata for hash: 67b6978a68e8f8fac5f93ff7583e9430
 2025-01-02 00:25:21,241 - Successfully collected metadata for hash: e00bcac5d44c0f5282bed35a45c438e4
@@ -4377,7 +4368,6 @@
 2025-01-02 09:54:05,304 - Successfully collected metadata for hash: 22d314a82630c6cf2e87eef094d4bbf3
 2025-01-02 09:54:11,062 - Successfully collected metadata for hash: 6cc03e9fb7ad9c1f73b42ad20073db34
 2025-01-02 09:54:16,756 - Successfully collected metadata for hash: e3ba61c3bee74951ec5c4cb4414f9297
-2025-01-02 09:54:22,484 - Successfully collected metadata for hash: 6ed3eff4728647786da5d7a9b532b943
 2025-01-02 09:54:28,341 - Successfully collected metadata for hash: b2f3cf064ade1f17525455e4ae0f37fa
 2025-01-02 09:54:34,100 - Successfully collected metadata for hash: d1e7f149232aa555ada0f6b903eadb28
 2025-01-02 09:54:39,873 - Successfully collected metadata for hash: 8cc84a54cb11805faf180f774b149852
@@ -4786,7 +4776,6 @@
 2025-01-02 21:57:13,468 - Successfully collected metadata for hash: be238e4bf96edf7e9ab355b1b85f59f2
 2025-01-02 21:57:19,169 - Successfully collected metadata for hash: 27d7ecbc4723497235045f6721e3ee32
 2025-01-02 21:57:25,856 - Successfully collected metadata for hash: 8d38db7c5d59e14c66f92b766fe12074
-2025-01-02 21:57:32,418 - Successfully collected metadata for hash: 6ed3eff4728647786da5d7a9b532b943
 2025-01-02 21:57:38,359 - Successfully collected metadata for hash: 05079a0e7b1bf69f37f517cff0356fa3
 2025-01-02 21:57:44,482 - Successfully collected metadata for hash: 3bd9caad38865b367c978e1fc9bb79c5
 2025-01-02 21:57:50,249 - Successfully collected metadata for hash: e6cae714f3260a17d34c07a32d59a514
@@ -4912,7 +4901,6 @@
 2025-01-02 22:10:24,568 - Successfully collected metadata for hash: c047b8b62d27958b4254191f23d6bb6f
 2025-01-02 22:10:30,713 - Successfully collected metadata for hash: 5bedd5ae2d68701db422b5d2ff6a90c5
 2025-01-02 22:10:36,668 - Successfully collected metadata for hash: c2ad5fd3f6e9add62be0861e07823ce3
-2025-01-02 22:10:43,208 - Successfully collected metadata for hash: 6ed3eff4728647786da5d7a9b532b943
 2025-01-02 22:10:49,306 - Successfully collected metadata for hash: fd9fed62180d59e6527c1646f9f7d074
 2025-01-02 22:10:55,217 - Successfully collected metadata for hash: 9a36de50a05f1fc2d8aadeed532551fb
 2025-01-02 22:11:01,366 - Successfully collected metadata for hash: 1359284da63610ff33f2bee1cff8f853
@@ -5272,7 +5260,6 @@
 2025-01-02 22:48:11,652 - Successfully collected metadata for hash: 5f67be4b5921465755fc2661a5850001
 2025-01-02 22:48:17,917 - Successfully collected metadata for hash: 79551f0308f00b7889ef7e6b0fb63f57
 2025-01-02 22:48:23,971 - Successfully collected metadata for hash: c4d491a200d3f2d9b65067770208f79d
-2025-01-02 22:48:30,317 - Successfully collected metadata for hash: 6ed3eff4728647786da5d7a9b532b943
 2025-01-02 22:48:36,255 - Successfully collected metadata for hash: f7710d8b7f6a189d9bdb8500a5eea207
 2025-01-02 22:48:42,207 - Successfully collected metadata for hash: 3c7658257682c28c6a4232b3d1ef617f
 2025-01-02 22:48:48,552 - Successfully collected metadata for hash: 4eab741c469f4c8c87c2a8d73a747a12
@@ -5350,7 +5337,6 @@
 2025-01-02 22:56:25,279 - Successfully collected metadata for hash: 9e470b9a576c35a44f59eb68e0b68c62
 2025-01-02 22:56:31,425 - Successfully collected metadata for hash: 1b7b5c36aa07f03f8cdc8b4acaf8c80b
 2025-01-02 22:56:37,563 - Successfully collected metadata for hash: 05bdb41aab6b4131b97e31a8fe760d27
-2025-01-02 22:56:43,713 - Successfully collected metadata for hash: 6ed3eff4728647786da5d7a9b532b943
 2025-01-02 22:56:50,667 - Successfully collected metadata for hash: 294564557ef992505a7c271c70a42110
 2025-01-02 22:56:56,817 - Successfully collected metadata for hash: 76dc344c9075c36cbeff80c242bea42c
 2025-01-02 22:57:02,756 - Successfully collected metadata for hash: 1d437eceff953fd665598892b1c50c2a
@@ -6070,7 +6056,6 @@
 2025-01-03 08:56:36,375 - Successfully collected metadata for hash: a617f48c18250092c83cc62c06dbd50e
 2025-01-03 08:56:40,350 - Successfully collected metadata for hash: 95c44323b0c618248d41aa49435e8361
 2025-01-03 08:56:44,349 - Successfully collected metadata for hash: 3ee5cd9e6d8b632f7bb44b35fe3a450c
-2025-01-03 08:56:48,046 - Successfully collected metadata for hash: 81c06be0e2a9439eed20cf62ddb00670
 2025-01-03 08:56:52,382 - Successfully collected metadata for hash: 748b6a422983b3b46db78b9acc48e292
 2025-01-03 08:56:57,785 - Successfully collected metadata for hash: cd3c1a93c7cd287f33f2400a689794db
 2025-01-03 08:57:02,229 - Successfully collected metadata for hash: 7aba0acd5cf3e5ebe018e5259b9c180e
@@ -6111,7 +6096,6 @@
 2025-01-03 08:59:21,729 - Successfully collected metadata for hash: 10158698195cb2868f3ac3e41c19a0fb
 2025-01-03 08:59:27,189 - Successfully collected metadata for hash: e967c4f33b0f6f74cc96e379cbc25331
 2025-01-03 08:59:31,320 - Successfully collected metadata for hash: 2b1615733725373e3850e50c7a7d414d
-2025-01-03 08:59:35,502 - Successfully collected metadata for hash: 6ed3eff4728647786da5d7a9b532b943
 2025-01-03 08:59:39,330 - Successfully collected metadata for hash: 22b9dfa0cd64a6b3e89be373a160f228
 2025-01-03 08:59:42,981 - Successfully collected metadata for hash: 151471f56428e89b649b76d573440251
 2025-01-03 08:59:46,992 - Successfully collected metadata for hash: 80e4e2d42816c83e42bd6af5b89c012b
@@ -6780,16 +6764,12 @@
 2025-01-03 15:50:06,302 - Successfully collected metadata for hash: 3b35ab13633bf82f0cba56693d52ff7b
 2025-01-03 15:50:09,838 - Successfully collected metadata for hash: 979a914b1b7a39c549e6869cad7d9ffe
 2025-01-03 15:50:13,341 - Successfully collected metadata for hash: dad07e85575294fdefaeda4e4231ccb9
-2025-01-03 15:50:16,875 - Successfully collected metadata for hash: 4aecd052a01d436ca7abacd7f836ffcc
-2025-01-03 15:50:20,401 - Successfully collected metadata for hash: 99e8c8d576d86eee8f1637ed9b971ec5
 2025-01-03 15:50:24,116 - Successfully collected metadata for hash: 9427fb36a99564b61009383432c59b2d
-2025-01-03 15:50:27,613 - Successfully collected metadata for hash: 623e3f76c8d020894f97140d2736d0af
 2025-01-03 15:50:31,172 - Successfully collected metadata for hash: 8cc7099f990579bec9f8ebda285fa458
 2025-01-03 15:50:34,690 - Successfully collected metadata for hash: 5db94b6eed7e047ea70f95ebf90605d2
 2025-01-03 15:50:38,267 - Successfully collected metadata for hash: d9e91333d1bdfc23a76444ed103b9bc1
 2025-01-03 15:50:41,754 - Successfully collected metadata for hash: d0817da4b6ac4ea36b50b00e314e0730
 2025-01-03 15:50:45,396 - Successfully collected metadata for hash: dfd4b6434556dc353059da64b9f94a4c
-2025-01-03 15:50:49,034 - Successfully collected metadata for hash: d72f7f347ead6458d254f38245833f7c
 2025-01-03 15:50:52,527 - Successfully collected metadata for hash: 7276ae7a4af234b67dcea16cfd457146
 2025-01-03 15:50:56,076 - Successfully collected metadata for hash: 64b6aa107f0fefafa7984c53c073e807
 2025-01-03 15:50:59,607 - Successfully collected metadata for hash: a33304e5692cd35d1472b3e64c751d08
@@ -6817,7 +6797,6 @@
 2025-01-03 15:52:18,361 - Successfully collected metadata for hash: 8d4926324f98455f156d4c69ecede188
 2025-01-03 15:52:21,871 - Successfully collected metadata for hash: 9af8aa8548ec7e67b151a361c69b0aca
 2025-01-03 15:52:25,407 - Successfully collected metadata for hash: b08c181e32f6fee884a5f214331210be
-2025-01-03 15:52:28,952 - Successfully collected metadata for hash: d72f7f347ead6458d254f38245833f7c
 2025-01-03 15:52:32,506 - Successfully collected metadata for hash: c807595caf59fff2694ff275797a163a
 2025-01-03 15:52:35,952 - Successfully collected metadata for hash: 2cfecaeec441d73d766dda76476b1c04
 2025-01-03 15:52:39,535 - Successfully collected metadata for hash: ae91a16e84f6323773ae5b52cc6859fb
@@ -6830,7 +6809,6 @@
 2025-01-03 15:53:04,828 - Successfully collected metadata for hash: 4c3b0211e2f0578f7bfa469eefd0e482
 2025-01-03 15:53:08,597 - Successfully collected metadata for hash: a4ab7d77a88b4621c0fd713f0c3dd6a6
 2025-01-03 15:53:12,258 - Successfully collected metadata for hash: 24ea721dc43ed2ce8451b50f1859cba5
-2025-01-03 15:53:15,774 - Successfully collected metadata for hash: 8e3e5efca31f9c9158b9bae4d1888c2e
 2025-01-03 15:53:19,258 - Successfully collected metadata for hash: dfd658f6a2e3042900dd77ebf9fa5a39
 2025-01-03 15:53:23,014 - Successfully collected metadata for hash: a233dba3e0916d92f3a8a9799d42173b
 2025-01-03 15:53:26,530 - Successfully collected metadata for hash: 657adb988104cc412ad3d3ba07adc59c
@@ -6859,7 +6837,6 @@
 2025-01-03 15:54:47,972 - Successfully collected metadata for hash: 31d05113fead44597521e7b8bd9c9029
 2025-01-03 15:54:51,542 - Successfully collected metadata for hash: 0bb22f82b65b5e74f461ab9d400571ad
 2025-01-03 15:54:55,006 - Successfully collected metadata for hash: 92e09c043c0938dbc56e476f0ba3ef9e
-2025-01-03 15:54:58,575 - Successfully collected metadata for hash: 6ed3eff4728647786da5d7a9b532b943
 2025-01-03 15:55:02,146 - Successfully collected metadata for hash: 7b11b17f7d3a51b3adbfb444224e2060
 2025-01-03 15:55:05,612 - Successfully collected metadata for hash: 1832cb5dde038a724bbffefa2962094f
 2025-01-03 15:55:09,153 - Successfully collected metadata for hash: 27c8703bb1f11b313f0ace0851f5af28
@@ -6914,7 +6891,6 @@
 2025-01-03 15:58:04,673 - Successfully collected metadata for hash: c4748cac5293fff7797cb5acfa7c1928
 2025-01-03 15:58:08,239 - Successfully collected metadata for hash: 6d5c51eeacdcc6ea6567a8c133ba9442
 2025-01-03 15:58:11,749 - Successfully collected metadata for hash: 118e1e18977df35bf57afb990ed1325a
-2025-01-03 15:58:15,491 - Successfully collected metadata for hash: ae91a16e84f6323773ae5b52cc6859fb
 2025-01-03 15:58:18,986 - Successfully collected metadata for hash: 647b6df575528485c283c73dc0b2f4c4
 2025-01-03 15:58:22,487 - Successfully collected metadata for hash: 27d7fa49df6f8241d01962009458d81f
 2025-01-03 15:58:25,992 - Successfully collected metadata for hash: d2c96da8c2f619c89f028020a6fb8895
@@ -6937,27 +6913,21 @@
 2025-01-03 15:59:26,220 - Successfully collected metadata for hash: d2fd75e4a8fa523dca84ad7f56e67831
 2025-01-03 15:59:29,879 - Successfully collected metadata for hash: d6c8e507239a24db32de85f0aeb4127e
 2025-01-03 15:59:33,346 - Successfully collected metadata for hash: 6161a7a8833832b215f5e11812176bdc
-2025-01-03 15:59:36,883 - Successfully collected metadata for hash: d72f7f347ead6458d254f38245833f7c
 2025-01-03 15:59:40,365 - Successfully collected metadata for hash: 05a416ba9a4356509b0f78e475f082cf
 2025-01-03 15:59:43,837 - Successfully collected metadata for hash: da831129eeeaeef772e7e42d493bb439
 2025-01-03 15:59:47,404 - Successfully collected metadata for hash: 46ef0cbd7ce0a1a0fd9de7691e7aa229
-2025-01-03 15:59:50,896 - Successfully collected metadata for hash: 99e8c8d576d86eee8f1637ed9b971ec5
 2025-01-03 15:59:54,427 - Successfully collected metadata for hash: 15b409eb0563dc5afb0a33e60dedbdd1
 2025-01-03 15:59:58,003 - Successfully collected metadata for hash: 48a07734cc3384697bc87391fa020797
-2025-01-03 16:00:01,562 - Successfully collected metadata for hash: ae91a16e84f6323773ae5b52cc6859fb
 2025-01-03 16:00:05,098 - Successfully collected metadata for hash: d74ca819c5b0c240b4f8229f28d4214e
 2025-01-03 16:00:08,573 - Successfully collected metadata for hash: 2d7693d7f707d6bd9bd3f7e81afccced
 2025-01-03 16:00:12,127 - Successfully collected metadata for hash: f81860f5930f4afce72ba7d32aeec59a
 2025-01-03 16:00:15,713 - Successfully collected metadata for hash: 9b70ff2f9c4b9feb0785cd2d0708393a
 2025-01-03 16:00:19,433 - Successfully collected metadata for hash: 4b473f7c76fffaf95d379e51aa3a47c9
-2025-01-03 16:00:22,982 - Successfully collected metadata for hash: 4aecd052a01d436ca7abacd7f836ffcc
 2025-01-03 16:00:26,434 - Successfully collected metadata for hash: 5c08b51e6fff1234ccae15926176b82c
 2025-01-03 16:00:30,040 - Successfully collected metadata for hash: b52991273892afc17b0efe6beb607c82
 2025-01-03 16:00:33,570 - Successfully collected metadata for hash: ec2afbdcbcd16150217ca187c051f534
-2025-01-03 16:00:37,505 - Successfully collected metadata for hash: ae91a16e84f6323773ae5b52cc6859fb
 2025-01-03 16:00:41,007 - Successfully collected metadata for hash: 6c57dfda96da60c84490e0f224a162b3
 2025-01-03 16:00:44,514 - Successfully collected metadata for hash: d769b6837fbef2ef1f3a1c2da4391a50
-2025-01-03 16:00:48,282 - Successfully collected metadata for hash: 99e8c8d576d86eee8f1637ed9b971ec5
 2025-01-03 16:00:51,796 - Successfully collected metadata for hash: b6fe28bcd83c194b6748e8570744aa9f
 2025-01-03 16:00:55,344 - Successfully collected metadata for hash: ca3934840dc37ebfeb6cec3d5b62b728
 2025-01-03 16:00:58,840 - Successfully collected metadata for hash: 1a943a32557c4abeb2933ef99e93aa99
@@ -6975,11 +6945,9 @@
 2025-01-03 16:01:41,398 - Successfully collected metadata for hash: 26a80fa9a970abd05bb754c1a478f7a9
 2025-01-03 16:01:44,882 - Successfully collected metadata for hash: 04360a5c5454d7cd72ea35210f605e1c
 2025-01-03 16:01:48,671 - Successfully collected metadata for hash: 7fe589fd58fbeb102a80bb40c03eeb8c
-2025-01-03 16:01:52,158 - Successfully collected metadata for hash: ae91a16e84f6323773ae5b52cc6859fb
 2025-01-03 16:01:55,782 - Successfully collected metadata for hash: 220bcc05e2f0e60d49a152248df2f93a
 2025-01-03 16:01:59,263 - Successfully collected metadata for hash: e56e0dfa923c2deb2a230b6a0d9376a9
 2025-01-03 16:02:02,874 - Successfully collected metadata for hash: 4a3dac1b13b73135704a24e9a49a3d63
-2025-01-03 16:02:06,499 - Successfully collected metadata for hash: 99e8c8d576d86eee8f1637ed9b971ec5
 2025-01-03 16:02:09,987 - Successfully collected metadata for hash: 5152008e37f7d8b21ceaabc24b35ec5a
 2025-01-03 16:02:13,503 - Successfully collected metadata for hash: 17404c2eaf4e8149c01ce5435f8d32c7
 2025-01-03 16:02:17,269 - Successfully collected metadata for hash: 056d69a2966f32e025e21984246e95a9
@@ -6991,17 +6959,14 @@
 2025-01-03 16:02:38,501 - Successfully collected metadata for hash: 082abcd21b88fcf51f8d5e5a009bb7be
 2025-01-03 16:02:42,048 - Successfully collected metadata for hash: c0b66fd43237bbfb6977268e3ea40d43
 2025-01-03 16:02:45,515 - Successfully collected metadata for hash: d310b9de623b8ec6461b931035f81dea
-2025-01-03 16:02:49,026 - Successfully collected metadata for hash: ae91a16e84f6323773ae5b52cc6859fb
 2025-01-03 16:02:52,532 - Successfully collected metadata for hash: 4c77cef83d4f0dd1aac54a02f837d6e1
 2025-01-03 16:02:56,022 - Successfully collected metadata for hash: c19077b7781664ce8961e53612057b6f
-2025-01-03 16:02:59,457 - Successfully collected metadata for hash: 99e8c8d576d86eee8f1637ed9b971ec5
 2025-01-03 16:03:03,026 - Successfully collected metadata for hash: 979a6d04c0b023447a43703bdef7609a
 2025-01-03 16:03:06,492 - Successfully collected metadata for hash: c34409e47de7dee36db26d1335af9933
 2025-01-03 16:03:10,092 - Successfully collected metadata for hash: c139fc7e543ac1001c9469254ddaefba
 2025-01-03 16:03:13,693 - Successfully collected metadata for hash: 642a016713828ea26024ee283fe901de
 2025-01-03 16:03:17,273 - Successfully collected metadata for hash: 5bdc30dc78a9144a0db7ad43037f9a2e
 2025-01-03 16:03:20,915 - Successfully collected metadata for hash: 08b90f8451679af8b10c630c05b3762c
-2025-01-03 16:03:27,892 - Successfully collected metadata for hash: 4aecd052a01d436ca7abacd7f836ffcc
 2025-01-03 16:03:31,439 - Successfully collected metadata for hash: ad64561f6bb4459aacf04f6bce87307d
 2025-01-03 16:03:34,970 - Successfully collected metadata for hash: 2b664b1a72726dd1831a7458e0bf90c8
 2025-01-03 16:03:38,513 - Successfully collected metadata for hash: 3fbf1f759e6155b0a04186ba1d44d24c
@@ -7048,7 +7013,6 @@
 2025-01-03 16:06:03,547 - Successfully collected metadata for hash: e6d52019624861aad8563305f9f072a9
 2025-01-03 16:06:07,120 - Successfully collected metadata for hash: 3db5c0d80791d79ba9f268d6cd559af9
 2025-01-03 16:06:10,680 - Successfully collected metadata for hash: 3d5991c340326ada01b86b5bfe0ac846
-2025-01-03 16:06:14,388 - Successfully collected metadata for hash: 99e8c8d576d86eee8f1637ed9b971ec5
 2025-01-03 16:06:17,897 - Successfully collected metadata for hash: 223418bfd2da3f64ecc1351827dd9b6e
 2025-01-03 16:06:21,409 - Successfully collected metadata for hash: 1f329f45c2b9fb42a8a87144ced0ae4c
 2025-01-03 16:06:24,837 - Successfully collected metadata for hash: 9111b9f2018f0b60e48f8fa31da5c3c1
@@ -7077,7 +7041,6 @@
 2025-01-03 16:07:46,451 - Successfully collected metadata for hash: 739ea05dd5c403cba03ab0074680b78a
 2025-01-03 16:07:50,000 - Successfully collected metadata for hash: 38a8f4c8c6ad7be1e38a9fe1cd772055
 2025-01-03 16:07:53,472 - Successfully collected metadata for hash: 027ffe6f54a93b45b2f3e868ee5dc917
-2025-01-03 16:07:57,122 - Successfully collected metadata for hash: 99e8c8d576d86eee8f1637ed9b971ec5
 2025-01-03 16:08:00,628 - Successfully collected metadata for hash: fcae31c49736f5e0da857a1309417de4
 2025-01-03 16:08:04,070 - Successfully collected metadata for hash: 79adb5d4d2495c414f773cbb8d0a891d
 2025-01-03 16:08:07,654 - Successfully collected metadata for hash: 6b755fb094f4c30ca0d3ceade3ca7447
@@ -7109,21 +7072,17 @@
 2025-01-03 16:09:40,227 - Successfully collected metadata for hash: 16afec12912f29a4a668379a9c51ffd5
 2025-01-03 16:09:43,731 - Successfully collected metadata for hash: 1f6454a212e1bba007e5d7a546083553
 2025-01-03 16:09:47,222 - Successfully collected metadata for hash: b82e745c2a503b4a9853235a38d133eb
-2025-01-03 16:09:50,716 - Successfully collected metadata for hash: 623e3f76c8d020894f97140d2736d0af
 2025-01-03 16:09:54,272 - Successfully collected metadata for hash: 3808fa1247e9666fb00ae2bb017b16c6
 2025-01-03 16:09:57,805 - Successfully collected metadata for hash: c0b66fd43237bbfb6977268e3ea40d43
 2025-01-03 16:10:01,398 - Successfully collected metadata for hash: a4c90276be58265177f727ef964d4973
 2025-01-03 16:10:04,963 - Successfully collected metadata for hash: 3f1722bb8b8f3660c6dd8ed7681d97e4
 2025-01-03 16:10:08,542 - Successfully collected metadata for hash: 5be113b72ae2cdfef62b36406565eb42
 2025-01-03 16:10:12,103 - Successfully collected metadata for hash: 73b55b8ce89b75dd40acf79fad6b9254
-2025-01-03 16:10:15,646 - Successfully collected metadata for hash: ae91a16e84f6323773ae5b52cc6859fb
 2025-01-03 16:10:19,141 - Successfully collected metadata for hash: 50bc2017dbce375f7522a5011aace2c1
 2025-01-03 16:10:22,659 - Successfully collected metadata for hash: 655a91f9b286b1e562ac851165c22a0f
 2025-01-03 16:10:26,191 - Successfully collected metadata for hash: bd28a96d5fb358e9ad0df39468edfb56
 2025-01-03 16:10:29,687 - Successfully collected metadata for hash: 37aa9551c217b7869a24754a388b0218
 2025-01-03 16:10:33,203 - Successfully collected metadata for hash: 33ef28658a53f7042d5dec93485479ab
-2025-01-03 16:10:36,637 - Successfully collected metadata for hash: 99e8c8d576d86eee8f1637ed9b971ec5
-2025-01-03 16:10:40,099 - Successfully collected metadata for hash: d72f7f347ead6458d254f38245833f7c
 2025-01-03 16:10:43,912 - Successfully collected metadata for hash: 7fce3435b8f13915ad9cb4a60909627c
 2025-01-03 16:10:47,493 - Successfully collected metadata for hash: 7d7159f2deff8866cc82fba020c5bc10
 2025-01-03 16:10:51,209 - Successfully collected metadata for hash: 6a1523b13277f0de08d30eb15b10e440
@@ -7135,7 +7094,6 @@
 2025-01-03 16:11:12,993 - Successfully collected metadata for hash: 668a66bd754fc383028cc4af4684a5e6
 2025-01-03 16:11:16,503 - Successfully collected metadata for hash: a090ad5a3b5cb01fd6d3faf74c74f4d0
 2025-01-03 16:11:20,002 - Successfully collected metadata for hash: 04cdf97ff6824883eda14635cda55c68
-2025-01-03 16:11:23,491 - Successfully collected metadata for hash: ae91a16e84f6323773ae5b52cc6859fb
 2025-01-03 16:11:27,102 - Successfully collected metadata for hash: 8efeb42eddc53f99bc7ffc88e1401945
 2025-01-03 16:11:30,794 - Successfully collected metadata for hash: c0b66fd43237bbfb6977268e3ea40d43
 2025-01-03 16:11:34,343 - Successfully collected metadata for hash: 3372c749b22b84b16a0962265cbc96b4
@@ -7158,13 +7116,11 @@
 2025-01-03 16:12:35,751 - Successfully collected metadata for hash: 7760809fbc574b2ac65f9545b84e77cb
 2025-01-03 16:12:39,246 - Successfully collected metadata for hash: 8f04141520b224ed0158680a0dd4e27a
 2025-01-03 16:12:43,429 - Successfully collected metadata for hash: 3fb46b49f66f1563d4f46b11b79af690
-2025-01-03 16:12:46,936 - Successfully collected metadata for hash: ae91a16e84f6323773ae5b52cc6859fb
 2025-01-03 16:12:50,505 - Successfully collected metadata for hash: fa9f6545b532900677b28ea9cdb099b6
 2025-01-03 16:12:54,075 - Successfully collected metadata for hash: 7cb43e14fcdc0ef7f7855fba774b7dc6
 2025-01-03 16:12:57,648 - Successfully collected metadata for hash: 33b13fb723b3dfd7f99647e5990ed48d
 2025-01-03 16:13:01,216 - Successfully collected metadata for hash: 300841693e19082dab56e6a271b515b4
 2025-01-03 16:13:04,704 - Successfully collected metadata for hash: a45d9730279b44defc43045e7b060c3a
-2025-01-03 16:13:08,295 - Successfully collected metadata for hash: ae91a16e84f6323773ae5b52cc6859fb
 2025-01-03 16:13:11,773 - Successfully collected metadata for hash: ff40c14dfb61287adfc93a0f7d160896
 2025-01-03 16:13:15,221 - Successfully collected metadata for hash: 0f73c406bfe6f15d4c8a7c20425c1d21
 2025-01-03 16:13:19,035 - Successfully collected metadata for hash: b0d011593dff5efebfb08463597dcce8
@@ -7175,13 +7131,11 @@
 2025-01-03 16:13:36,940 - Successfully collected metadata for hash: 00e6eb4f4548d067919fece682f58a51
 2025-01-03 16:13:40,450 - Successfully collected metadata for hash: 4a38effe54619cf1bd818a82a3c0fd71
 2025-01-03 16:13:43,956 - Successfully collected metadata for hash: 3da9cabdb96e12be3aa5b1088d3a1004
-2025-01-03 16:13:47,948 - Successfully collected metadata for hash: 4aecd052a01d436ca7abacd7f836ffcc
 2025-01-03 16:13:51,410 - Successfully collected metadata for hash: 5f12b15e67d0ce88771f41186b068e8b
 2025-01-03 16:13:54,966 - Successfully collected metadata for hash: 08b90f8451679af8b10c630c05b3762c
 2025-01-03 16:13:58,602 - Successfully collected metadata for hash: 81dc2c6a65418f89a32a465a282a0cb3
 2025-01-03 16:14:02,162 - Successfully collected metadata for hash: 3ee7bb67565669debb1184a98f900304
 2025-01-03 16:14:05,896 - Successfully collected metadata for hash: 5beee8e9cbc57bb94ffb089aac9484b8
-2025-01-03 16:14:09,423 - Successfully collected metadata for hash: d72f7f347ead6458d254f38245833f7c
 2025-01-03 16:14:13,049 - Successfully collected metadata for hash: 1d1925da7976c692231a7eeb35272466
 2025-01-03 16:14:16,599 - Successfully collected metadata for hash: 5e0717b19977985b878193812b9980a1
 2025-01-03 16:14:20,196 - Successfully collected metadata for hash: 623e3f76c8d020894f97140d2736d0af
@@ -7193,14 +7147,12 @@
 2025-01-03 16:14:42,337 - Successfully collected metadata for hash: e2b31f1b68cdd8ac21b025ef82ab0c1d
 2025-01-03 16:14:45,883 - Successfully collected metadata for hash: 8a3de9b128fe51d9f9ae3c0a992b7913
 2025-01-03 16:14:49,519 - Successfully collected metadata for hash: 5ffa74d91c96d7fcdf13abf5e1e0c9ab
-2025-01-03 16:14:53,032 - Successfully collected metadata for hash: ae91a16e84f6323773ae5b52cc6859fb
 2025-01-03 16:14:56,528 - Successfully collected metadata for hash: 7290d76606db7aff083e85e8b3e5f4e3
 2025-01-03 16:15:00,142 - Successfully collected metadata for hash: b5016f60d32db46cfcddb43bc0e51835
 2025-01-03 16:15:03,619 - Successfully collected metadata for hash: 9dea15478dc9f2adfcf0e5f54cca3a12
 2025-01-03 16:15:07,114 - Successfully collected metadata for hash: 5d0919b426c8e1cb23d23e338a06a316
 2025-01-03 16:15:11,288 - Successfully collected metadata for hash: 7ab33598f2ece5692e374c508046f504
 2025-01-03 16:15:14,780 - Successfully collected metadata for hash: b981547a6ccc5910755ea485c64d43fb
-2025-01-03 16:15:18,756 - Successfully collected metadata for hash: ae91a16e84f6323773ae5b52cc6859fb
 2025-01-03 16:15:22,258 - Successfully collected metadata for hash: e08d85b925217606c513e66d0e2dcd15
 2025-01-03 16:15:25,728 - Successfully collected metadata for hash: f38d6adf1b225850ab6ea9153b6bf04f
 2025-01-03 16:15:29,216 - Successfully collected metadata for hash: 43648fb92036022041505aaf0aaaa9c7
@@ -7217,7 +7169,6 @@
 2025-01-03 16:16:08,633 - Successfully collected metadata for hash: 6697fa7d9f8ad92ddbfd81e5aeaa2154
 2025-01-03 16:16:12,261 - Successfully collected metadata for hash: b4b2cfe01b39bc427060556e06ef490a
 2025-01-03 16:16:15,778 - Successfully collected metadata for hash: f4c51a0b788df942f52972f010fcd1b9
-2025-01-03 16:16:19,259 - Successfully collected metadata for hash: 9fc8bda67c997377e20e9d007004228f
 2025-01-03 16:16:22,753 - Successfully collected metadata for hash: 730c3a973d660af3215be1cf0af7564c
 2025-01-03 16:16:26,953 - Successfully collected metadata for hash: 50650b140fc23ba28f9066b4cf74f640
 2025-01-03 16:16:30,509 - Successfully collected metadata for hash: b7dbe74c93faba2c0e5c3f1c1d5c5cc4
@@ -7250,7 +7201,6 @@
 2025-01-03 16:18:10,710 - Successfully collected metadata for hash: e1206c9ac6bd63190b98f6efc9a9071c
 2025-01-03 16:18:14,180 - Successfully collected metadata for hash: 97003f2c1e973f6306612132109ce33f
 2025-01-03 16:18:17,816 - Successfully collected metadata for hash: 17af88d714f0dd33acc5bee25be3b1ab
-2025-01-03 16:18:21,287 - Successfully collected metadata for hash: 9fc8bda67c997377e20e9d007004228f
 2025-01-03 16:18:25,023 - Successfully collected metadata for hash: b3498ac0bc6b8b8458e35e163e4af7cc
 2025-01-03 16:18:28,479 - Successfully collected metadata for hash: 337d7e0bbbb7bdd8d65baaf7172eb1c7
 2025-01-03 16:18:32,178 - Successfully collected metadata for hash: 8dd0ebe575df8857d31bb7a9dfc2210c
@@ -7387,7 +7337,6 @@
 2025-01-03 15:37:14,767 - Successfully collected metadata for hash: 5fbc28c9f7caf80b417f37d2ce2f10b5
 2025-01-03 15:37:18,463 - Successfully collected metadata for hash: 3eb20160db6503e462a4b3cc2a5318a6
 2025-01-03 15:37:21,957 - Successfully collected metadata for hash: bbcb793d0edee95dd622701bfe0c85dc
-2025-01-03 15:37:25,511 - Successfully collected metadata for hash: 8e3e5efca31f9c9158b9bae4d1888c2e
 2025-01-03 15:37:29,046 - Successfully collected metadata for hash: d1faf695a99feaa8bcdb1a3c0a19757f
 2025-01-03 15:37:32,705 - Successfully collected metadata for hash: 021876bf069f4e01912b07a0d188e8c6
 2025-01-03 15:37:37,188 - Successfully collected metadata for hash: 92199e447544cf238e0a3e83921cc2dd
@@ -7575,7 +7524,6 @@
 2025-01-03 15:57:53,483 - Successfully collected metadata for hash: ed2be94cb2f22d2afab1f21fe47f3b82
 2025-01-03 15:57:57,108 - Successfully collected metadata for hash: ef6a5dab6487581092b22936a9158f5e
 2025-01-03 15:58:00,638 - Successfully collected metadata for hash: c3c114ae3624e7fe4a192e21a1acfef0
-2025-01-03 15:58:04,365 - Successfully collected metadata for hash: 979a914b1b7a39c549e6869cad7d9ffe
 2025-01-03 15:58:07,892 - Successfully collected metadata for hash: e4401af2d46357d37ad6de44e95ea9b3
 2025-01-03 15:58:11,834 - Successfully collected metadata for hash: 4548205268ba7a3219a8d34d359d3db8
 2025-01-03 15:58:15,379 - Successfully collected metadata for hash: 2fb007cc779d6efbd4339193a5f11773
@@ -7632,12 +7580,10 @@
 2025-01-03 16:01:23,061 - Successfully collected metadata for hash: 11170564c3fb1856da1936718d6ce7ff
 2025-01-03 16:01:26,792 - Successfully collected metadata for hash: 3508ed329b1dc29c27284986fa87745b
 2025-01-03 16:01:30,531 - Successfully collected metadata for hash: 6051218da9ad5398b29f3b7d441f003e
-2025-01-03 16:01:34,090 - Successfully collected metadata for hash: 979a914b1b7a39c549e6869cad7d9ffe
 2025-01-03 16:01:37,724 - Successfully collected metadata for hash: 0387c3d84642ba218c7fbd693c32232d
 2025-01-03 16:01:41,456 - Successfully collected metadata for hash: 109d3af02a8631c231a7af46163a85e2
 2025-01-03 16:01:45,311 - Successfully collected metadata for hash: f7b77398c0cfb24888b9e854abdb8bdc
 2025-01-03 16:01:48,843 - Successfully collected metadata for hash: 17434eb2bfe98b77f3e2e59d327a22aa
-2025-01-03 16:01:53,005 - Successfully collected metadata for hash: 3ec01a292c840ce4d06f77adbd8bbbab
 2025-01-03 16:01:56,836 - Successfully collected metadata for hash: 5e4c38a25da45d903f92b7b21404cae4
 2025-01-03 16:02:00,540 - Successfully collected metadata for hash: eab5c29b0cff2d2b949d73be1b8c2d54
 2025-01-03 16:02:04,418 - Successfully collected metadata for hash: 745871e3c6260a6018f1043fe4cb7043
@@ -7695,24 +7641,6 @@
 2025-01-03 16:08:13,258 - Successfully collected metadata for hash: 233e4faf3c0fa1b2ec9b9247aa91472e
 2025-01-03 16:08:17,633 - Successfully collected metadata for hash: a7dcbe7305a36d5d6139a4e4629034b4
 2025-01-03 16:08:21,262 - Successfully collected metadata for hash: 6bbc5a47849af5e5151af947ecc6a91c
-2025-01-03 16:11:04,362 - Successfully collected metadata for hash: 7bd6c577e48fc4695900c9c39b6a83c3
-2025-01-03 16:11:07,963 - Successfully collected metadata for hash: f8f37d1dae8365e712c632602e8bfa9f
-2025-01-03 16:11:11,523 - Successfully collected metadata for hash: 0e25aade4160ee669f88bab85fddc0c7
-2025-01-03 16:11:15,030 - Successfully collected metadata for hash: ebabf263a8d2211998757649abf2103e
-2025-01-03 16:12:26,049 - Successfully collected metadata for hash: 9cf7617ce9f36137e809b17fe8fbeedf
-2025-01-03 16:12:29,568 - Successfully collected metadata for hash: 7a615f65c951648d52f74044811ae497
-2025-01-03 16:12:33,069 - Successfully collected metadata for hash: a94df2b4d1211cff84b4689890f04269
-2025-01-03 16:12:36,882 - Successfully collected metadata for hash: 0f83d87577dea61173310de74879d6a8
-2025-01-03 16:12:40,481 - Successfully collected metadata for hash: 86bab2b7ca7b1fa517c65b6ecb77de09
-2025-01-03 16:12:44,007 - Successfully collected metadata for hash: 2d0d034b184461aa71df6db53e06ca1a
-2025-01-03 16:12:47,725 - Successfully collected metadata for hash: dae2c903edcc7ef0f24b83ff9056793f
-2025-01-03 16:12:51,449 - Successfully collected metadata for hash: 6ef0c29563cf225b8d6b2a11e14785d7
-2025-01-03 16:12:54,944 - Successfully collected metadata for hash: f688435e190b85b54b5ed13bbce178a9
-2025-01-03 16:12:58,430 - Successfully collected metadata for hash: 3d1f088c517fb0ef40e4d22785209548
-2025-01-03 16:13:01,929 - Successfully collected metadata for hash: c07fc59b71741b7922580987cdad31d2
-2025-01-03 16:13:05,642 - Successfully collected metadata for hash: 233e4faf3c0fa1b2ec9b9247aa91472e
-2025-01-03 16:13:09,128 - Successfully collected metadata for hash: a7dcbe7305a36d5d6139a4e4629034b4
-2025-01-03 16:13:12,694 - Successfully collected metadata for hash: 6bbc5a47849af5e5151af947ecc6a91c
 2025-01-03 16:13:16,258 - Successfully collected metadata for hash: 0412b72719b601c183d944ba5730e4f5
 2025-01-03 16:13:19,812 - Successfully collected metadata for hash: 81e2febe06cf62dd4b118133afded147
 2025-01-03 16:13:23,541 - Successfully collected metadata for hash: 30340dda77db34f2ed6681ee310a72ef
@@ -7722,7 +7650,6 @@
 2025-01-03 16:13:37,937 - Successfully collected metadata for hash: 7d2d14e32ab244aafd5d1156c45e27a7
 2025-01-03 16:13:41,563 - Successfully collected metadata for hash: 07004a2108b4720b931a33bdec4e9e95
 2025-01-03 16:13:45,085 - Successfully collected metadata for hash: 14b1d0b8782a35755ef077bb313a4374
-2025-01-03 16:13:48,752 - Successfully collected metadata for hash: 1529e15e0c5832f2ec76bab474131253
 2025-01-03 16:13:52,279 - Successfully collected metadata for hash: ec812876c71be57a5f00155217aab009
 2025-01-03 16:13:55,889 - Successfully collected metadata for hash: 1d0e77822f9fe3fcc43e981f4fe66a42
 2025-01-03 16:13:59,379 - Successfully collected metadata for hash: 6e90a5d2f667b5eb501de64427e7a837
@@ -7762,4 +7689,3 @@
 2025-01-03 16:18:52,339 - Successfully collected metadata for hash: d02cf3d76ee291dc7a4e094dd28de4e5
 2025-01-03 16:18:56,060 - Successfully collected metadata for hash: f4713763308051be99f5cc00a5eff802
 2025-01-03 16:18:59,542 - Successfully collected metadata for hash: 7d53f5a613432c84c5a0e7afc6c58e84
-
