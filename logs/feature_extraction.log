@@ -1,0 +1,5 @@
+2025-01-12 15:21:05,591 - INFO - Starting metadata preprocessing...
+2025-01-12 15:21:05,640 - INFO - Loaded 18947 rows from ../data/static/metadata_collection.csv
+2025-01-12 15:21:05,647 - INFO - Handled missing values by filling with 'N/A'
+2025-01-12 15:21:05,668 - INFO - Removed 0 duplicate rows
+2025-01-12 15:21:05,820 - INFO - Preprocessed metadata saved to ../data/static/features.csv
